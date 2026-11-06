@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anjali Krishna 👋
 
-<!--
-**anjali-krishna77/anjali-krishna77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | Full-Stack Development Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, TypeScript and Artificial Intelligence & Machine Learning.
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering student at ASIET.
+- 💡 Interested in software development and AI-powered applications.
+- 🛠️ Exploring Python, JavaScript, TypeScript and web technologies.
+- 🚀 Enjoy building projects and learning new technologies.
+- 🎯 Working towards becoming a skilled Software Engineer.
+
+### 🛠️ Technologies I'm Exploring
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React, Next.js
+- **Backend:** Node.js
+- **Database:** MongoDB
+- **Interests:** Artificial Intelligence, Machine Learning, Full-Stack Development
+
+### 📌 Featured Projects
+
+- AI Interactive Interview Platform
+- Craftoverse
+
+
+### 📫 Connect With Me
+
+- GitHub: [@anjali-krishna77](https://github.com/anjali-krishna77)
+- LinkedIn: [Anjali krishna M](https://www.linkedin.com/in/anjalikrishna-m-445723241/)
+
+---
+
+⭐ Thanks for visiting my profile!
